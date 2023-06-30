@@ -12,6 +12,11 @@ The YouTube clone project includes the following features:
 - Video recommendations based on user's current video
 - Responsive design for optimal viewing on different devices
 
+## Project Images:
+
+![Home Page](./Demo%20Images/HomePage.png)
+![Alt text](./Demo%20Images/Video.png)
+
 ## Installation
 
 To run the YouTube clone project locally, follow these steps:
